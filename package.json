@@ -11,11 +11,12 @@
     "web": "expo start --web || expo start --web --web-only"
   },
   "dependencies": {
+    "@babel/preset-react": "7.14.5",
     "expo-asset": "^8.2.0",
     "jsc-android": "^250230.2.1",
     "react": "17.0.2",
     "react-dom": "^16.13.1",
-    "react-native": "0.65.1",
+    "react-native": "0.66.0",
     "react-native-gesture-handler": "^1.9.0",
     "react-native-reanimated": "2.3.0-beta.1",
     "react-native-screens": "3.7.2",
@@ -28,7 +29,7 @@
     "babel-jest": "^26.1.0",
     "eslint": "^7.5.0",
     "jest": "^26.1.0",
-    "metro-react-native-babel-preset": "^0.66.0",
+    "metro-react-native-babel-preset": "^0.66.2",
     "react-native-codegen": "^0.0.7",
     "react-test-renderer": "17.0.2"
   },
